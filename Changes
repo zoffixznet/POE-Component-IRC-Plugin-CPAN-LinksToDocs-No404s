@@ -1,0 +1,9 @@
+Revision history for POE-Component-IRC-Plugin-CPAN-LinksToDocs-No404s
+
+0.002   Mar 13, 2008
+        Added 404 and network error message filter. Added "duplicate tags"
+        filter
+
+0.001   Mar 12, 2008
+        First version, released on an unsuspecting world.
+
